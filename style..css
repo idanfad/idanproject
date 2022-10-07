@@ -1,0 +1,54 @@
+.mainBlock {
+    height: 400px;
+
+    
+}
+
+.contentBlock {
+    height: 400px;
+    width: 30%;
+    background-color: blue;
+    float: right;
+    margin: 0;
+    text-align: center;
+}
+
+.mediaBlock {
+    height: 400px;
+    width: 70%;
+    float: right;
+    background-color: red;
+    margin: 0;
+    text-align: center;
+}
+
+.headerBlock {
+    text-align: center;
+    background-color: rgb(218, 218, 137);
+    height: 70px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    margin: 0;
+}
+
+.footerBlock {
+    background-color: rgb(69, 18, 45);
+    text-align: center;
+    height: 75px;
+    padding-top: 5px;
+}
+
+body {
+    margin: 0;
+}
+
+.imgBlock {
+    height: 300px;
+    
+    
+}
+
+.imgBlock:hover {
+    flex-shrink: 20px;
+}
+
